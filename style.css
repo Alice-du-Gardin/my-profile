@@ -88,6 +88,7 @@ div #button {
 	width : 150px;
 	margin : 10px auto;
 	padding: 10px;
+	border-radius : 4px;
 }
 
 div #button:hover{
